@@ -1,0 +1,16 @@
+{
+    "name": "Liblightmodbus",
+    "keywords": "modbus, modbus rtu, modbus tcp",
+    "description": "Liblightmodbus is a lightweight, highly configurable, hardware-agnostic Modbus RTU/TCP library written in C99.",
+    "authors":{
+        "name": "Jacek Wieczorek"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/asantiagod/liblightmodbus.git",
+        "branch": "feature/platformio"
+    },
+    "build": {
+        "includeDir": "./include"
+    }
+}
